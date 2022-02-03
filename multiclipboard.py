@@ -7,6 +7,7 @@
 #   save (saves the current content that you have on your clipboard to a key that you name)
 #   load (type in the key in which you want the data from that key to be copied to your clipboard)
 #   list (shows all of the keys that you made)
+#   delete (deletes the content of the key entered)
 #   erase (completely deletes the file that has the saved clipboard content)
 # Hopefully this is useful!
 import sys
