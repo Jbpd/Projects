@@ -1,5 +1,14 @@
-# Jack Budinger
-# This program is run from the command prompt using the command 'python multiclipboard.py'
+# Jbpd
+# Tutorial:
+# Go into the command prompt, then cd to the folder that this program is located.
+# Then, type 'pip install keyboard'
+# Then, to enter commands, make sure you are on the dir where the file is located then type 'python multiclipboard.py <command>'
+# The commands are:
+#   save (saves the current content that you have on your clipboard to a key that you name)
+#   load (type in the key in which you want the data from that key to be copied to your clipboard)
+#   list (shows all of the keys that you made)
+#   erase (completely deletes the file that has the saved clipboard content)
+# Hopefully this is useful!
 import sys
 import clipboard
 import json
